@@ -104,7 +104,7 @@ To understand the difference between ssh, sftp, scp, you can check the `followin
         sshare -l -A def-descotea_cpu
 
         # To check what is running
-        squeue -u USER
+        squeue -u $USER
 
 Using sbatch
 ------------
